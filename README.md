@@ -6,7 +6,7 @@ Currently a raycaster with texture mapping (greyscale only), player movement, an
 
 Use WASD to move - it's tank controls like in original Wolfenstein.
 
-#Building
+# Building
 
 Requires openframeworks, no plugins.
 The project is set up for VS2013 but can probably be built just fine under Linux or OSX.
